@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Hilko (he/him) and I work as a Data Scientist 👨🏼‍💻 🤖.
+
+If you want to get in touch with me, feel free to email me 📧 mail@hilko.eu.
+
+
 <!--
 **hija/hija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
